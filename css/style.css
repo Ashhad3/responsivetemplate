@@ -393,7 +393,7 @@
     }
     
     .search-resp{
-        width: 20vw;
+        width: 30vw;
         margin-bottom: 10px;
     }
 
@@ -448,5 +448,15 @@
     .serv-img{
         width: 100%;
         height: 100%;
+    }
+    .myform input{
+        width: 200px;
+    }
+    .myform textarea{
+        width: 200px;
+    }
+
+    .search-resp{
+        width: 40vw;
     }
 }
